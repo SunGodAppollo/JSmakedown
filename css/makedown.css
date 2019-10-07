@@ -1,0 +1,21 @@
+@font-face{
+  font-family: 'myfont';
+  src:url('../font/my.ttf') format('truetype'),
+}
+
+img{
+  display: block;
+  max-height: 500px;
+}
+
+.makedown-h1{
+  font-size: 30px;
+  font-weight: bold;
+  font-family:"truetype";
+}
+
+.makedown-h2{
+  font-size: 20px;
+  font-weight: bold;
+  font-family:"truetype";
+}
